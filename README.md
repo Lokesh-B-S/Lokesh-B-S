@@ -1,3 +1,4 @@
 - 👋 Lokesh-B-S
-- 🌱 studying 3rd year engineering in CSE @ NHCE,Bangalore
+- 🌱 Graduate in CSE @ NHCE,Bangalore 2023
+- Software Engineer
 
